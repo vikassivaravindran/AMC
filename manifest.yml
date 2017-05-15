@@ -1,0 +1,7 @@
+---
+applications:
+- name: AMC-SpringBootApplication
+  memory: 512M
+  host: amc-springbootdemo
+  path: ./build/libs/amc-springbootapp-0.0.1-SNAPSHOT.war
+  domain: mybluemix.net
